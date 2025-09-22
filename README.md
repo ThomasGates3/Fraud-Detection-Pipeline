@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/fraud-terraform">
+  <a href="https://github.com/ThomasGates3/Fraud-Detection-Pipeline">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,14 +21,14 @@
   <p align="center">
     End-to-end machine learning fraud detection system deployed with AWS & Terraform.
     <br />
-    <a href="https://github.com/github_username/fraud-terraform"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ThomasGates3/Fraud-Detection-Pipeline"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/fraud-terraform">View Demo</a>
+    <a href="https://github.com/ThomasGates3/Fraud-Detection-Pipeline">View Demo</a>
     ·
-    <a href="https://github.com/github_username/fraud-terraform/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ThomasGates3/Fraud-Detection-Pipeline/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/fraud-terraform/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/ThomasGates3/Fraud-Detection-Pipeline/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -54,7 +54,7 @@
 
 ## About The Project
 
-[![Fraud Detection Architecture][product-screenshot]](images/architecture.png)
+[![Fraud Detection Architecture][product-screenshot]](images/fraud_architecture.png)
 
 This project demonstrates an **end-to-end fraud detection system** built on AWS using Terraform.
 
@@ -92,8 +92,8 @@ This project demonstrates an **end-to-end fraud detection system** built on AWS 
 
 ### Installation
 ```sh
-git clone https://github.com/github_username/fraud-terraform.git
-cd fraud-terraform
+git clone https://github.com/ThomasGates3/Fraud-Detection-Pipeline.git
+cd Fraud-Detection-Pipeline
 terraform init
 terraform apply -auto-approve
 ```
@@ -158,7 +158,7 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 Your Name – [@twitter_handle](https://twitter.com/twitter_handle) – email@example.com  
 
-Project Link: [https://github.com/github_username/fraud-terraform](https://github.com/github_username/fraud-terraform)
+Project Link: [https://github.com/ThomasGates3/Fraud-Detection-Pipeline](https://github.com/ThomasGates3/Fraud-Detection-Pipeline)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,20 +175,20 @@ Project Link: [https://github.com/github_username/fraud-terraform](https://githu
 ---
 
 <!-- MARKDOWN LINKS -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/fraud-terraform.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/fraud-terraform/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/fraud-terraform.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/fraud-terraform/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/fraud-terraform.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/fraud-terraform/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/fraud-terraform.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/fraud-terraform/issues
-[license-shield]: https://img.shields.io/github/license/github_username/fraud-terraform.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/fraud-terraform/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/ThomasGates3/Fraud-Detection-Pipeline.svg?style=for-the-badge
+[contributors-url]: https://github.com/ThomasGates3/Fraud-Detection-Pipeline/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ThomasGates3/Fraud-Detection-Pipeline.svg?style=for-the-badge
+[forks-url]: https://github.com/ThomasGates3/Fraud-Detection-Pipeline/network/members
+[stars-shield]: https://img.shields.io/github/stars/ThomasGates3/Fraud-Detection-Pipeline.svg?style=for-the-badge
+[stars-url]: https://github.com/ThomasGates3/Fraud-Detection-Pipeline/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ThomasGates3/Fraud-Detection-Pipeline.svg?style=for-the-badge
+[issues-url]: https://github.com/ThomasGates3/Fraud-Detection-Pipeline/issues
+[license-shield]: https://img.shields.io/github/license/ThomasGates3/Fraud-Detection-Pipeline.svg?style=for-the-badge
+[license-url]: https://github.com/ThomasGates3/Fraud-Detection-Pipeline/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/thomas-gates-iii
 
-[product-screenshot]: images/architecture.png
+[product-screenshot]: https://github.com/ThomasGates3/Fraud-Detection-Pipeline/images/fraud/architecture.png
 [Terraform]: https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white
 [Terraform-url]: https://www.terraform.io/
 [Lambda]: https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white
