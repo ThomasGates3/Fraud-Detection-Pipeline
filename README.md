@@ -54,7 +54,7 @@
 
 ## About The Project
 
-[![Fraud Detection Architecture][product-screenshot]](images/fraud_architecture.png)
+[![Fraud Detection Architecture][product-screenshot]](images/architecture.png)
 
 This project demonstrates an **end-to-end fraud detection system** built on AWS using Terraform.
 
