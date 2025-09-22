@@ -188,7 +188,7 @@ Project Link: [https://github.com/ThomasGates3/Fraud-Detection-Pipeline](https:/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/thomas-gates-iii
 
-[product-screenshot]: https://github.com/ThomasGates3/Fraud-Detection-Pipeline/images/fraud/architecture.png
+[product-screenshot]: images/fraud_architecture.png
 [Terraform]: https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white
 [Terraform-url]: https://www.terraform.io/
 [Lambda]: https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white
