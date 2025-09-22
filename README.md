@@ -186,9 +186,9 @@ Project Link: [https://github.com/github_username/fraud-terraform](https://githu
 [license-shield]: https://img.shields.io/github/license/github_username/fraud-terraform.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/fraud-terraform/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/thomas-gates-iii
 
-[product-screenshot]: images/fraud_architecture.png
+[product-screenshot]: images/architecture.png
 [Terraform]: https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white
 [Terraform-url]: https://www.terraform.io/
 [Lambda]: https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white
