@@ -1,0 +1,11 @@
+transaction_id,user_id,amount,location,device_type,is_fraud
+1,101,200,US,mobile,0
+2,102,1500,US,desktop,1
+3,103,50,EU,mobile,0
+4,104,3000,US,desktop,1
+5,105,75,ASIA,mobile,0
+6,106,600,EU,desktop,0
+7,107,25,US,mobile,0
+8,108,8000,ASIA,desktop,1
+9,109,120,US,mobile,0
+10,110,450,EU,desktop,1
